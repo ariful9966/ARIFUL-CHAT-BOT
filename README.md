@@ -1,29 +1,29 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
+### —͟͟͞͞𝐀𝐑𝐈𝐅𝐔𝐋 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
   
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**   
   
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+SHAHADAT+CHAT+BOT+Fork!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+ARIFUL+CHAT+BOT+Fork!" />
 </p>
 
 <!-- Image -->
 <p align="center">
-  <img src="https://i.imgur.com/u7VnPzH.png" width="300">
+  <img src="https://i.imgur.com/VcSeb85.jpeg" width="300">
 </p>
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
 
-  <!-- SHAHADAT CHAT BOT -->
+  <!-- ARIFUL CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    ARIFUL CHAT BOT
   </span>
   <br>
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By ARIFUL ISLAM
   </span>
 
 </p>
@@ -32,18 +32,18 @@
 <div align="center">
 
   <!-- ⭐ Fork -->
-  <img src="https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/forks/shahadat-sahu/ARIFUL-CHAT-BOT?style=for-the-badge" alt="Forks">
 
   <!-- ⭐ Stars -->
-  <img src="https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/stars/shahadat-sahu/ARIFUL-CHAT-BOT?style=for-the-badge" alt="Stars">
 
   <!-- ⭐ Fork Views -->
-  <img src="https://komarev.com/ghpvc/?username=shahadat-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
+  <img src="https://komarev.com/ghpvc/?username=ariful-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
 
 
   <!-- ⭐ Original Repository -->
-  <a href="https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
-    <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
+  <a href="https://github.com/shahadat-sahu/ARIFUL-CHAT-BOT">
+    <img src="https://img.shields.io/badgeORIGINALL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
 
 </div>
@@ -102,12 +102,12 @@ Click the image above to watch the step-by-step tutorial on YouTube.
 <p align="center">
 
   <!-- ⭐ Fork Button -->
-  <a href="https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/fork">
+  <a href="https://github.com/shahadat-sahu/ARIFUL-CHAT-BOT/fork">
     <img src="https://img.shields.io/badge/FORK%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo">
   </a>
 
   <!-- ⭐ Import Button -->
-  <a href="https://github.com/new/import?source=https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
+  <a href="https://github.com/new/import?source=https://github.com/shahadat-sahu/ARIFUL-CHAT-BOT">
     <img src="https://img.shields.io/badge/IMPORT%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Import Repo">
   </a>
 
@@ -158,13 +158,13 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
-**Nice Name:** `SA HU`  
+**Name:** `ARIFUL ISLAM`  
+**Nice Name:** `ARIFUL`  
 **Profession:** `STUDENT & CHATBOT DEVELOPER`  
-**Location:** `KHAGRACHARI, BANGLADESH`
+**Location:** `MANIKGANJ, BANGLADESH`
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+96599894039)
 - **Facebook:** [Profile Me](https://facebook.com/100044713412032)
 - **Messenger:** [Message Me](https://m.me/100044713412032)
 
@@ -183,7 +183,7 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+96599894039?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://m.me/100044713412032">
